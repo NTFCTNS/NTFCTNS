@@ -48,7 +48,8 @@
     "noImageResize": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
@@ -957,7 +958,7 @@
             "background": "@bgColor"
           },
           "_name": "content10",
-          "_customHTML": "<section class=\"content10\" group=\"Content\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"!fullScreen\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"!fullScreen\">\n    \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container align-center\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div mbr-text class=\"mbr-col-sm-12 mbr-col-md-10 mbr-fonts-style align-center mbr-light\" mbr-theme-style=\"display-6\">*Each priced section above begins the development of the site, and will continue to be worked on, monthly, as customer upholds payments as listed above. These conditions regarding our pricing details are stated on our <b>terms and agreement</b>.</div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"content10\" group=\"Content\" plugins=\"amp-main\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"!fullScreen\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\" condition=\"!fullScreen\">\n    \n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters>\n    \n    <div class=\"container align-center\">\n        <div class=\"mbr-row mbr-justify-content-center\">\n            <div mbr-text class=\"mbr-col-sm-12 mbr-col-md-10 mbr-fonts-style align-center mbr-light\" mbr-theme-style=\"display-6\">*Each priced section above begins the development of the site, and will continue to be worked on, monthly, as customer upholds payments as listed above. These conditions regarding our pricing details are stated on our <b>terms and agreement</b>.*</div>\n        </div>\n    </div>\n</section>",
           "_cid": "rc3Hd95cm5",
           "_anchor": "content10-k",
           "_protectedParams": [],
